@@ -1,6 +1,6 @@
 <h1 align="center">Hi Ashish Jha here ...</h1>
-<p align="center"><b> Technology Enthusiast, Archhitect & Researcher </b></p>
-<p align="center"><b>Interested in Architecting Enterprise Applicaions!!</b></p>
+<p align="center"><b> Technology Enthusiast, Architect & Researcher </b></p>
+<p align="center">!!!!!!!!!!!!!!!!!!!!!!!!!!!</p>
  
 - 🔭 **I’m currently working and exploring the areas of Artificial Intelligence.**
 - 🌱 I’m currently learning Machine Learning & Industrial Automation
