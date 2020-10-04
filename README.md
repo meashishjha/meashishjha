@@ -5,8 +5,8 @@
 - 🔭 **I’m currently working and exploring the areas of Artificial Intelligence.**
 - 🌱 I’m currently learning Machine Learning & Industrial Automation
 - 👯 I’m looking to collaborate on active opensource projects
-- 💬 Ask me about web applications, archiecture, Big data, clouds, AL, AI and IOT
-- 📫 How to reach me, mail to: ajlti2019@gmail.com
+- 💬 Ask me about web applications, archiecture, Big data, clouds, DA,ML, AI and IOT
+- 📫 How to reach me, mail to: ajlti2019[at]gmail.com
 - ⚡ Fun fact: Coming Soon :smiley: 
 
 
