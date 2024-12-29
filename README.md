@@ -11,5 +11,5 @@
 
 
 ### How about some stats ? 
-![Ashish Jha github stats](https://github-readme-stats.vercel.app/api?username=webmidas&show_icons=true&theme=dark)    
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=webmidas&layout=compact&theme=dark)](https://github.com/webmidas/github-readme-stats)
+![Ashish Jha github stats](https://github-readme-stats.vercel.app/api?username=meashishjha&show_icons=true&theme=dark)    
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meashishjha&layout=compact&theme=dark)](https://github.com/webmidas/github-readme-stats)
